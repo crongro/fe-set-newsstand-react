@@ -1,5 +1,0 @@
-//서버와 클라이언트 styled-components 해쉬값 통일
-{
-  "presets": ["next/babel"],
-  "plugins": ["babel-plugin-styled-components"]
-}
